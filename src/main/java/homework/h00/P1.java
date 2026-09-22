@@ -9,5 +9,4 @@ public class P1 {
   int sub(int a, int b) {
     return a - b;
   }
-
 }
